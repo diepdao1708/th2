@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ex</string>
+    <string name="to_day">HOM NAY</string>
+    <string name="history">LICH SU</string>
+    <string name="search">TIM KIEM</string>
+    <string name="tab_layout">Tab Layout</string>
+    <string name="floating_action_button">Floating Action Button</string>
+    <string name="spinner">Spinner</string>
+    <string name="channel_name">channel</string>
+    <string name="channel_description">description</string>
+</resources>
